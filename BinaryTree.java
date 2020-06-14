@@ -54,5 +54,9 @@ public class BinaryTree {
         BinaryTree bt = new BinaryTree();
         bt.CreateBinaryTree();
         bt.PostOrderTraversal(bt.root);
+        
+//         bt.PreOrderTraversal(bt.root);
+//         bt.InOrderTraversal(bt.root);
+        
     }
 }
