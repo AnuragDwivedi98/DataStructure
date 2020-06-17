@@ -1,6 +1,4 @@
-import jdk.dynalink.NamedOperation;
 
-import java.net.SocketOption;
 
 public class SinglyLinkedList {
     private Node head;
